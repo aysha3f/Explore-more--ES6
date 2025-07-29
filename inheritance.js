@@ -22,4 +22,5 @@ class Truck extends Vehicle{
        super(name, price);
        this.load = load;
     }
+    
 }
